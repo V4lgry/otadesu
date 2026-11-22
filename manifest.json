@@ -1,0 +1,12 @@
+{
+  "id": "custom-anime-catalog",
+  "name": "Custom Anime Catalog",
+  "description": "Indonesian anime catalog provider",
+  "manifestURI": "",
+  "version": "1.0.0",
+  "author": "Custom",
+  "type": "onlinestream-provider",
+  "language": "typescript",
+  "lang": "id",
+  "payloadURI": ""
+}
