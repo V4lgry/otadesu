@@ -1,12 +1,12 @@
 {
   "id": "custom-anime-catalog",
   "name": "Custom Anime Catalog",
-  "description": "Indonesian anime catalog provider",
-  "manifestURI": "",
-  "version": "1.0.0",
-  "author": "Custom",
+  "description": "AniList-powered anime catalog search",
+  "manifestURI": "https://raw.githubusercontent.com/V4lgry/otadesu/main/manifest.json",
+  "version": "1.0.1",
+  "author": "V4lgry",
   "type": "onlinestream-provider",
-  "language": "typescript",
-  "lang": "id",
-  "payloadURI": ""
+  "language": "javascript",
+  "lang": "multi",
+  "payloadURI": "https://raw.githubusercontent.com/V4lgry/otadesu/main/dist/index.js"
 }
