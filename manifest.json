@@ -1,9 +1,9 @@
 {
   "id": "custom-anime-catalog",
   "name": "Custom Anime Catalog",
-  "description": "AniList-powered anime catalog search",
+  "description": "Kitsu-powered anime catalog and episode metadata",
   "manifestURI": "https://raw.githubusercontent.com/V4lgry/otadesu/main/manifest.json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "V4lgry",
   "type": "onlinestream-provider",
   "language": "javascript",
